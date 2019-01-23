@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+}
+
+div.empNavbar{
+    border: 1px transparent #CCC;
+    box-shadow: 1px 1px 1px 1px #CCC;
+}
+
+.navcustomitem{
+    color: white !important;
+    font-weight: bold;
+}

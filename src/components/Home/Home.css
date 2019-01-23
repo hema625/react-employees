@@ -1,0 +1,33 @@
+
+.img {
+  background-image: url("./header-bg.jpg"); 
+  background-position: center; 
+  background-repeat: no-repeat;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+} 
+
+.butcenter {
+  position: absolute;
+  top : 50%;
+  width: 100%;
+  text-align: center;
+  color :white;
+  font-family: comic;
+  background-color : none; 
+}
+
+.linkcolor {
+  color: #fff;;  
+}
+
+a,Link {
+  text-decoration: none;
+}
+
+
+
+

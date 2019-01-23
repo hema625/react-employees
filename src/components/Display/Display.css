@@ -1,0 +1,23 @@
+a,Link {
+    text-decoration: none;
+    color: white;
+}
+
+h2.heading{ 
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.viewemployee {
+    margin: auto;
+    width : 90%; 
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #CCC;
+    box-shadow: 2px 2px 1px 3px #CCC;
+    /*background-color: #fff; */
+}
+
+.style {
+    margin-right: 2px;
+}

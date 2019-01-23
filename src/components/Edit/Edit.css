@@ -1,0 +1,25 @@
+body{
+    background-color:#f8f8fb; 
+}
+
+.edit {
+    margin: auto;
+    margin-top: 20px;
+    width : 50%; 
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #CCC;
+    box-shadow: 1px 1px 1px 1px #CCC;
+    background-color: #fff;
+}
+h2.heading{ 
+    margin-top:20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .edit {
+        width : 70%;
+    }
+}
